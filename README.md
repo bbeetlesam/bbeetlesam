@@ -1,4 +1,4 @@
-Hello, there. I'm bbeetlesam.
+Hello, there. I'm **bbeetlesam**.\
 This is the GitHub repos for all my projects, including games, web stuffs, etc.
 
 <!---
