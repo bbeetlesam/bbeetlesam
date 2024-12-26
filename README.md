@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @bbeetlesam!
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Godot for my next project!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+Hello, there. I'm bbeetlesam.
+This is the GitHub repos for all my projects, including games, web stuffs, etc.
 
 <!---
 bbeetlesam/bbeetlesam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
