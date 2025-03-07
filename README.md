@@ -7,7 +7,7 @@ This is my GitHub account that contains all of my projects, including games, web
 ### Believe-me-these-are-important facts
 
 - Really into Programming, but likely focused on `Game Development`<br>(Use **C++** (mainly), **Python**, **Lua**, **HTMLCSSJS**, **C#**, and **Miniscript** (ts is underrated)).
-- A pretty-much loyal `VSCode` user (but sometimes i use other editors/IDE's too, like Webstorm and Trae).\
+- A pretty-much loyal `VSCode` user (but sometimes i use other editors/IDE's too, like Webstorm and Trae).
 - Would die for ```The Beatles``` (I get by with a little help from my friends).
 
 ### Easter egg
