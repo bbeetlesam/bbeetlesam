@@ -1,7 +1,7 @@
-## UM, HI.
+# UM, HI.
 
-Hello, there. I'm **bbeetlesam**. Currently an undergraduate student at ********** in **Informatics Engineering**, and I don't regret it.\
-This is my GitHub account that contains all of my projects, including games, web stuffs, some obscure things, etc.
+Hello, there. I'm **bbeetlesam**. Currently an undergraduate **Informatics Engineering** student at **Universitas Negeri Semarang**, and I (hopefully don't) regret it.\
+This is my GitHub account that contains all of my projects, including games, web stuffs, some obscure things, whatchamacallit, etc.
 <!-- 2024/?/? -->
 
 ### Believe-me-these-are-important facts
