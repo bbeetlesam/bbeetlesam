@@ -1,19 +1,25 @@
 # UM, HI.
 
-Hello, there. I'm **bbeetlesam**. Currently an undergraduate **Informatics Engineering** student at **Universitas Negeri Semarang**, and I (hopefully don't) regret it.\
-This is my GitHub account that contains all of my projects, including games, web stuffs, some obscure things, whatchamacallit, etc.
+Hello, there. The boy behind this mess is **`bbeetlesam`**.<br>
+He's currently an undergraduate **Informatics Engineering** student at **Universitas Negeri Semarang**, and hopefully he did and behave well on there.\
+This is his small GitHub account that contains all of his projects, including games, web stuffs, some obscure things, whatchamacallit, etc.
 <!-- 2024/?/? -->
 
-### Believe-me-these-are-important facts
+### These-are-important facts
 
-- Really into Programming, but likely focused on `Game Development`<br>(Use **C++** (mainly), **Python**, **Lua**, **HTMLCSSJS**, **C#**, and **Miniscript** (ts is underrated)).
-- A pretty-much loyal `VSCode` user (but sometimes i use other editors/IDE's too, like Webstorm and Trae).
-- Would die for ```The Beatles``` (I get by with a little help from my friends).
+- Likely focused on `Game Development` and some side `Web Development`.<br>
+- Use **C++** (mainly), **Python**, **Lua**, **HTML-CSS-JS**, **C#**, etc.
+- A pretty-much loyal `VSCode` user (but I also use Webstorm and Trae).
+- A **retrohead** and die-hard `beatlemania`.
+
+Yea, that's it. Like, God, there's nothing impressive left about him, not like he ever was somebody.<br>
+~~If time could rewind, I’d kindly ask God to assign me to someone who’s at least trying to matter.<br>
+Existing inside this kind of soul? Yeah, it’s nauseating~~.
 
 ### Easter egg
 
 <details>
-  <summary>Compile this</summary>
+  <summary>layla</summary>
 
   ```cpp
   #include <iostream>
