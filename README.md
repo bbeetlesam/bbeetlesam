@@ -1,6 +1,7 @@
 # UM, HI.
 
 Hello, there. The boy behind this mess is **`bbeetlesam`**.<br>
+His real-life name? ~Samudra Azriel Pradana~.<br>
 He's currently an undergraduate **Informatics Engineering** student at **Universitas Negeri Semarang**, and hopefully he did and behave well on there.\
 This is his small GitHub account that contains all of his projects, including games, web stuffs, some obscure things, whatchamacallit, etc.
 <!-- 2024/?/? -->
@@ -12,14 +13,12 @@ This is his small GitHub account that contains all of his projects, including ga
 - A pretty-much loyal `VSCode` user (but I also use Webstorm and Trae).
 - A **retrohead** and die-hard `beatlemania`.
 
-Yea, that's it. Like, God, there's nothing impressive left about him, not like he ever was somebody.<br>
-~~If time could rewind, I’d kindly ask God to assign me to someone who’s at least trying to matter.<br>
-Existing inside this kind of soul? Yeah, it’s nauseating~~.
+Yea, that's it. God, there's nothing impressive left about him, not like he ever was somebody.<br>
 
 ### Easter egg
 
 <details>
-  <summary>layla</summary>
+  <summary>Execute</summary>
 
   ```cpp
   #include <iostream>
