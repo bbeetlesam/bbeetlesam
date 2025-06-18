@@ -1,24 +1,18 @@
-# UM, HI.
+# um, hi.
 
-Hello, there. The boy behind this mess is **`bbeetlesam`**.<br>
-His real-life name? ~Samudra Azriel Pradana~.<br>
-He's currently an undergraduate **Informatics Engineering** student at **Universitas Negeri Semarang**, and hopefully he did and behave well on there.\
-This is his small GitHub account that contains all of his projects, including games, web stuffs, some obscure things, whatchamacallit, etc.
+i'm _Sam_, an undergraduate college student and the dude who's responsible for messy stuffs that happened here.\
+didn't know what I'm gonna put on this README though, but i'll write anyway.
 <!-- 2024/?/? -->
 
-### These-are-important facts
+- focused on `Game Development` and some side `Web Development`.<br>
+- use **C++**, **Lua**, **Python**, and **C#** (still amateur).
+- a pretty-much loyal `VSCode` user (vibe coder).
+- a **retrohead** and a die-hard `beatlemania`.
 
-- Likely focused on `Game Development` and some side `Web Development`.<br>
-- Use **C++** (mainly), **Python**, **Lua**, **HTML-CSS-JS**, **C#**, etc.
-- A pretty-much loyal `VSCode` user (but I also use Webstorm and Trae).
-- A **retrohead** and die-hard `beatlemania`.
-
-Yea, that's it. God, there's nothing impressive left about him, not like he ever was somebody.<br>
-
-### Easter egg
+yea, that's it.
 
 <details>
-  <summary>Execute</summary>
+  <summary>y</summary>
 
   ```cpp
   #include <iostream>
