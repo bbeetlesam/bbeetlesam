@@ -1,21 +1,19 @@
 # um, hi.
 
-i'm _Sam_, an undergraduate college student and the dude who's responsible for messy stuffs that happened here.\
-didn't know what I'm gonna put on this README though, but i'll write anyway.
+i'm **𝚂𝚊𝚖**, an undergraduate college student and the dude who's responsible for messy stuffs that happened here.\
+didn't know what i'm going to put on this README though, but here are my words anyway.
 <!-- 2024/?/? -->
+<!-- [𝚂𝚊𝚖](https://bbeetlesam.github.io/camefromgithubhuh) for later easter egg -->
 
-- focused on `Game Development` and some side `Web Development`.<br>
-- use **C++**, **Lua**, **Python**, **C#**, and used to be a [**Fancader**](https://play.fancade.com)
-(still amateur).
+- focused on `Game Development` with some side-hobby on `Web Development`.<br>
+- use **Lua**, **C++**, **Python**, **C#**, and also an amateur [**Fancader**](https://play.fancade.com).
 - a **retrohead** and a die-hard `beatlemania`.
 
-yea, that's it.
-
-[![itch.io](https://img.shields.io/badge/Games-itch.io-ff5f5f?style=flat&logo=itch.io)](https://bbeetlesam.itch.io)
-[![Donate](https://img.shields.io/badge/Donate-Ko--fi-ff5f5f?style=flat&logo=ko-fi)](https://ko-fi.com/bbeetlesam)
+yea, that's it. i'm just a\
+**fool on the hill**
 
 <details>
-  <summary></summary>
+  <summary>bonus</summary>
 
   ```cpp
   #include <iostream>
