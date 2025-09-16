@@ -1,17 +1,18 @@
 # um, hi.
 
-just an undergraduate college student who's responsible for messy stuff that happened here.<br>
+just a weird undergraduate [college](https://unnes.ac.id/) student who's responsible for messy stuff that happened here.<br>
 didn't know what i'm supposed to put on this README, but here are my words anyway:
 <!-- 2024/?/? -->
 <!-- [𝚂𝚊𝚖](https://bbeetlesam.github.io/camefromgithubhuh) for later easter egg -->
 
 - focused on `Game Development` with a side-hobby in `Web Development`.<br>
 - learning `Lua`, `C++`, `Python`, `C#`, and other languages.<br>also an amateur [**Fancader**](https://play.fancade.com).
-- a **retrohead** and a die-hard `beatlemania`.
+- a **retrohead**, **proghead**, and a die-hard `beatlemania`.
 
-yea, that's it. i'm just a<br>
-**fool on the hill**
+yea, that's it.<br>
+stay progressive lad.
 
+<!--
 <details>
   <summary>bonus</summary>
 
@@ -32,5 +33,6 @@ yea, that's it. i'm just a<br>
   }
   ```
 </details>
+-->
 
 <!-- send that code to someone you love, cause i dont have someone to send this -->
