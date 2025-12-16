@@ -7,12 +7,14 @@ didn't know what i'm supposed to put on this README, but here are my words anywa
 
 <!-- - learning `Lua`, `C++`, `Python`, `C#`, and other languages.<br>also an amateur [**Fancader**](https://play.fancade.com). -->
 - focused on `Game Development` with a side-hobby in `Web Development`.
-- ironically a dumb `Linux` enthusiast (i use arch, btw).
+- ironically a dumb `Linux` enthusiast (i use arch, btw) (also worship `Neovim`).
 - supports the **open source** movement, but *broke* on the other hand.
 - a mediocre drummer, retrohead, **proghead**, and a die-hard `beatlemania`.
 
+<div align="right">
 yea, that's it.<br>
 stay progressive lad.
+</div>
 
 <!--
 <details>
