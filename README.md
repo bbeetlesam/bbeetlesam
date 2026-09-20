@@ -6,15 +6,13 @@ didn't know what i'm supposed to put on this README, but here are my words anywa
 <!-- [𝚂𝚊𝚖](https://bbeetlesam.github.io/camefromgithubhuh) for later easter egg -->
 
 <!-- - learning `Lua`, `C++`, `Python`, `C#`, and other languages.<br>also an amateur [**Fancader**](https://play.fancade.com). -->
-- focused on `Game Development` with a side-hobby in `Web` and `CLI/TUI` Development.
-- unironically a dumb `Linux` enthusiast (i use arch, btw) (also worship `Neovim`).
-- a *penniless* dude who supports `FOSS` and the **open source** movement.
-- a mediocre drummer, retrohead, **proghead**, and a die-hard `beatlemania`.
+- focused on `Game Development` with side jobs in `Web` and `CLI/TUI` Development.
+- a dumb and clueless `Linux` enthusiast (i use Arch, btw).
+- a penniless dude who supports `FOSS` and the **open source** movement.
+- a mediocre drummer, proghead, and a die-hard `beatlemania`.
 
-<div align="right">
-yea, that's it.<br>
-stay progressive lad.
-</div>
+and, that's it.<br>
+stay progressive, teman-teman.
 
 <!--
 <details>
