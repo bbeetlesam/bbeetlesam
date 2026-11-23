@@ -1,18 +1,16 @@
 # greetings.
 
-just a weird undergraduate [college](https://unnes.ac.id/) student who's responsible for messy stuff that happened here.<br>
-didn't know what i'm supposed to put on this README, but here are my words anyway:
+just a weird undergraduate [college](https://unnes.ac.id/) student who's responsible for messy stuff that happened here.
 <!-- 2024/?/? -->
 <!-- [𝚂𝚊𝚖](https://bbeetlesam.github.io/camefromgithubhuh) for later easter egg -->
 
 <!-- - learning `Lua`, `C++`, `Python`, `C#`, and other languages.<br>also an amateur [**Fancader**](https://play.fancade.com). -->
-- focused on `Game Development` with side jobs in `Web` and `CLI/TUI` Development.
+- focused on `Game Development` with side jobs in `Web`, `Desktop`, and `CLI/TUI` Development.
 - a dumb and clueless `Linux` enthusiast (i use Arch, btw).
 - a penniless dude who supports `FOSS` and the **open source** movement.
 - a mediocre drummer, proghead, and a die-hard `beatlemania`.
 
-and, that's it.<br>
-stay progressive, teman-teman.
+dona nobis pacem.<br>
 
 <!--
 <details>
